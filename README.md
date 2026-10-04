@@ -164,8 +164,3 @@ To deploy on Vercel, provide a CMS endpoint reachable from the deployment and se
 
 CMS remains the source of truth for accounts, tasks, statements, submissions, and scores. GraderWrapped forwards the CMS session through its own HTTP-only cookies. Code drafts and theme preference are stored only in the browser; the project does not store them in a database.
 
----
-
-## ✦ Author
-
-**Pukan** · [GitHub](https://github.com/PUKAN223)
